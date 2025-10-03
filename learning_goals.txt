@@ -1,0 +1,8 @@
+1. Backend Fundamentals
+I want to learn how the backend development works, databases, and servers in order to understand the logic and build projects.
+
+2. Build projects
+I want to learn the concepts clearly to make simple projects like login page to apply the concepts I have learned and to improve my coding skills.
+
+3.Security and Depolyoment
+I want to learn how to deploy backend safely and to protect user information and security.
